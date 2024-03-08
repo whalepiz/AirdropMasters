@@ -1,0 +1,9 @@
+{
+  "name": "@whalepiz/AirdropMasters",
+  "version": "1.0.0",
+  "description": "AirdropMasters",
+  "main": "index.js",
+  "author": "@whalepiz",
+  "repository": "https://github.com/whalepiz/AirdropMasters.git",
+  "license": "ISC"
+}
