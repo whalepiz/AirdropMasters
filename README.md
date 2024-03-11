@@ -1,2 +1,1 @@
-Group TG : https://t.me/AirMastersz
-Airdrop & Retroactive . Channel : https://t.me/AirMastersx
+Group TG : https://t.me/AirMastersz Updating the airdrop reward progress checking application....
